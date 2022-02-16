@@ -2,7 +2,11 @@
 <resources>
 
     <style name="AppTheme.MainTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
-        <item name="android:statusBarColor"></item>
+        <item name="android:statusBarColor">@color/greenDark</item>
+    </style>
+
+    <style name="AppTheme.SplashTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_theme</item>
     </style>
 
 </resources>
