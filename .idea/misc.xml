@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/jhonatan.arias/Desktop/my_economy_kotlin/app/src/main/res/drawable/ic_launcher_background.xml" value="0.258" />
         <entry key="..\:/Users/jhonatan.arias/Desktop/my_economy_kotlin/app/src/main/res/drawable/splash_theme.xml" value="0.258" />
         <entry key="..\:/Users/jhonatan.arias/Desktop/my_economy_kotlin/app/src/main/res/layout/activity_main.xml" value="0.17395833333333333" />
+        <entry key="..\:/Users/jhonatan.arias/Desktop/my_economy_kotlin/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.258" />
       </map>
     </option>
   </component>
