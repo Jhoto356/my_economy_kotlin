@@ -6,6 +6,7 @@
     </style>
 
     <style name="AppTheme.SplashTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/greenDark</item>
         <item name="android:windowBackground">@drawable/splash_theme</item>
     </style>
 
